@@ -6,10 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tallerdeconfeccion.com/images/favicon.png</image:loc>
-      <image:caption>taller de confeccion</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>http://tallerdeconfeccion.com/images/jackets.jpg</image:loc>
     </image:image>
     <image:image>
@@ -17,6 +13,10 @@
     </image:image>
     <image:image>
       <image:loc>http://tallerdeconfeccion.com/images/uniformes.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tallerdeconfeccion.com/images/favicon.png</image:loc>
+      <image:caption>taller de confeccion</image:caption>
     </image:image>
   </url>
   <url>

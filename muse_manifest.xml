@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tallerdeconfeccion.com" resolutions="1x" timestamp="1521052126274">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tallerdeconfeccion.com" resolutions="1x" timestamp="1521052246829">
   <folder name="css">
     <file name="site_global.css" crc="3928177880"/>
     <file name="master_maestra.css" crc="3823646506" ref="taller-de-confeccion--contacto:index"/>
@@ -30,34 +30,6 @@
   </folder>
   <folder name="images">
     <file name="taller-de-confecciión-norte-de-bogota-favicon.ico" crc="4007585368" ref="index"/>
-    <file name="favicon.png" crc="4054429088" seo="true" ref="index:taller-de-confeccion--contacto">
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="index" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
-    </file>
     <file name="fondo.jpg" crc="3905077350" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -108,6 +80,34 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="favicon.png" crc="4054429088" seo="true" ref="index:taller-de-confeccion--contacto">
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+    </file>
     <file name="fondo-u856136-fr.jpg" crc="387069944" ref="index"/>
     <file name="fondo-u856136-fr2.jpg" crc="3826749241" ref="index"/>
     <file name="fondo-u856136-fr3.jpg" crc="155762362" ref="index"/>
