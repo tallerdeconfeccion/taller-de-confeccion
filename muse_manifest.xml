@@ -1,24 +1,28 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tallerdeconfeccion.com" resolutions="1x" timestamp="1520956869504">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tallerdeconfeccion.com" resolutions="1x" timestamp="1521051848703">
   <folder name="css">
     <file name="site_global.css" crc="3928177880"/>
-    <file name="master_maestra.css" crc="4272099980" ref="taller-de-confeccion--contacto:index"/>
+    <file name="master_maestra.css" crc="3823534440" ref="taller-de-confeccion--contacto:index"/>
     <file name="nomq_preview_master_maestra.css" crc="3824530138" ref="taller-de-confeccion--contacto:index"/>
-    <file name="taller-de-confeccion--contacto.css" crc="3920229810" ref="taller-de-confeccion--contacto"/>
-    <file name="nomq_taller-de-confeccion--contacto.css" crc="325397055" ref="taller-de-confeccion--contacto"/>
-    <file name="index.css" crc="4049611414" ref="index"/>
-    <file name="nomq_index.css" crc="4062645051" ref="index"/>
+    <file name="taller-de-confeccion--contacto.css" crc="4234510847" ref="taller-de-confeccion--contacto"/>
+    <file name="nomq_taller-de-confeccion--contacto.css" crc="443874806" ref="taller-de-confeccion--contacto"/>
+    <file name="index.css" crc="4061284685" ref="index"/>
+    <file name="nomq_index.css" crc="3951284852" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:taller-de-confeccion--contacto"/>
     <file name="museutils.js" crc="3803043152" ref="index:taller-de-confeccion--contacto"/>
     <file name="whatinput.js" crc="86476730" ref="index:taller-de-confeccion--contacto"/>
     <file name="museconfig.js" crc="4153641093" ref="index:taller-de-confeccion--contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:taller-de-confeccion--contacto"/>
+    <file name="webpro.js" crc="242022427" ref="index:taller-de-confeccion--contacto"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:taller-de-confeccion--contacto"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:taller-de-confeccion--contacto"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:taller-de-confeccion--contacto"/>
     <file name="require.js" crc="4157109226" ref="index:taller-de-confeccion--contacto"/>
-    <file name="webpro.js" crc="242022427" ref="taller-de-confeccion--contacto"/>
     <file name="form_check.php" crc="147359589" ref="taller-de-confeccion--contacto"/>
     <file name="form_throttle.php" crc="93986428" ref="taller-de-confeccion--contacto"/>
     <file name="form_process.php" crc="3851993751" ref="taller-de-confeccion--contacto"/>
@@ -26,7 +30,38 @@
   </folder>
   <folder name="images">
     <file name="taller-de-confecciión-norte-de-bogota-favicon.ico" crc="4007585368" ref="index"/>
-    <file name="svg-pegado-93641x162.svg" crc="523349980" seo="true" ref="index">
+    <file name="favicon.png" crc="4054429088" seo="true" ref="index:taller-de-confeccion--contacto">
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="index" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+      <caption webpage="taller-de-confeccion--contacto" alt="taller de confeccion"/>
+    </file>
+    <file name="fondo.jpg" crc="3905077350" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jackets.jpg" crc="4056451117" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -41,10 +76,43 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="svg pegado 93641x162_poster_.png" crc="479262367" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:taller-de-confeccion--contacto"/>
+    <file name="leggins.jpg" crc="4163599560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uniformes.jpg" crc="3887031522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="fondo-u856136-fr.jpg" crc="387069944" ref="index"/>
+    <file name="fondo-u856136-fr2.jpg" crc="3826749241" ref="index"/>
+    <file name="fondo-u856136-fr3.jpg" crc="155762362" ref="index"/>
     <file name="taller-de-confeccion--contacto-favicon.ico" crc="4007585368" ref="taller-de-confeccion--contacto"/>
   </folder>
-  <file name="index.html" crc="4064513835" seo="true" mt="1520956797699" redirect="true"/>
-  <file name="taller-de-confeccion--contacto.html" crc="510449687" seo="true" mt="1520956797699" redirect="true"/>
+  <file name="index.html" crc="3802085405" seo="true" mt="1521051829939" redirect="true"/>
+  <file name="taller-de-confeccion--contacto.html" crc="368060860" seo="true" mt="1521049120145" redirect="true"/>
 </manifest>
