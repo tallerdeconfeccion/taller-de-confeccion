@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tallerdeconfeccion.com" resolutions="1x" timestamp="1521052246829">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tallerdeconfeccion.com" resolutions="1x" timestamp="1527012707039">
   <folder name="css">
     <file name="site_global.css" crc="3928177880"/>
-    <file name="master_maestra.css" crc="3823646506" ref="taller-de-confeccion--contacto:index"/>
+    <file name="master_maestra.css" crc="185711933" ref="taller-de-confeccion--contacto:index"/>
     <file name="nomq_preview_master_maestra.css" crc="3824530138" ref="taller-de-confeccion--contacto:index"/>
     <file name="taller-de-confeccion--contacto.css" crc="4276466156" ref="taller-de-confeccion--contacto"/>
     <file name="nomq_taller-de-confeccion--contacto.css" crc="3886270750" ref="taller-de-confeccion--contacto"/>
-    <file name="index.css" crc="63450334" ref="index"/>
-    <file name="nomq_index.css" crc="3903059043" ref="index"/>
+    <file name="index.css" crc="259070019" ref="index"/>
+    <file name="nomq_index.css" crc="4026381120" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:taller-de-confeccion--contacto"/>
@@ -110,9 +110,9 @@
     </file>
     <file name="fondo-u856136-fr.jpg" crc="387069944" ref="index"/>
     <file name="fondo-u856136-fr2.jpg" crc="3826749241" ref="index"/>
-    <file name="fondo-u856136-fr3.jpg" crc="155762362" ref="index"/>
+    <file name="fondo-u856136-fr3.jpg" crc="4131527993" ref="index"/>
     <file name="taller-de-confeccion--contacto-favicon.ico" crc="4007585368" ref="taller-de-confeccion--contacto"/>
   </folder>
-  <file name="index.html" crc="477842281" seo="true" mt="1521052112047" redirect="true"/>
+  <file name="index.html" crc="3928657541" seo="true" mt="1527012683898" redirect="true"/>
   <file name="taller-de-confeccion--contacto.html" crc="3899515948" seo="true" mt="1521052112047" redirect="true"/>
 </manifest>
